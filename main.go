@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Jumps:", problems.Jump([]int{2,3,1,1,4}))
+	fmt.Println("Index:", problems.SearchInsert([]int{3, 5, 6, 7}, 8))
 }
