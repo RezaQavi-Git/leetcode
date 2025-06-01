@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println(
-		"Max Profit:",
-		problems.MaxProfit([]int{7, 1, 5, 3, 6, 4}))
+		"Reversed:",
+		problems.Reverse(1534236469))
 }
