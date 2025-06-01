@@ -6,5 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Length:", problems.UniqueMorseRepresentations([]string{"gin","zen","gig","msg"}))
+	fmt.Println(
+		"Max Profit:",
+		problems.MaxProfit([]int{7, 1, 5, 3, 6, 4}))
 }
