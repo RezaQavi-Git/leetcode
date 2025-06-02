@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println(
-		"Reversed:",
-		problems.Reverse(1534236469))
+		"Max Rob:",
+		problems.Rob([]int{2,1, 1, 2}))
 }
