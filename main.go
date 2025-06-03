@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println(
-		"Min Distance:",
-		problems.EditDistance("intention", "execution"))
+		"Count And Say:",
+		problems.CountAndSay(1))
 }
