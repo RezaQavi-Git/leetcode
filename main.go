@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println(
-		"Max Rob:",
-		problems.Rob([]int{2,1, 1, 2}))
+		"Min Distance:",
+		problems.EditDistance("intention", "execution"))
 }
