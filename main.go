@@ -7,6 +7,6 @@ import (
 
 func main() {
 	fmt.Println(
-		"Count And Say:",
-		problems.CountAndSay(1))
+		"Result: ",
+		problems.RobotWithString("bdda"))
 }
