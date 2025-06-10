@@ -8,6 +8,6 @@ import (
 func main() {
 		
 	fmt.Println(
-		"max diff: ",
-		problems.MaxDifference("abcabcab"))
+		"ZigZag: ",
+		problems.Convert("PAYPALISHIRING", 3))
 }
