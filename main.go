@@ -8,6 +8,6 @@ import (
 func main() {
 		
 	fmt.Println(
-		"ZigZag: ",
-		problems.Convert("PAYPALISHIRING", 3))
+		"PlusOne: ",
+		problems.PlusOne([]int{9, 9, 9}))
 }
