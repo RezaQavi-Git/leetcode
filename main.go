@@ -8,6 +8,6 @@ import (
 func main() {
 		
 	fmt.Println(
-		"PlusOne: ",
-		problems.PlusOne([]int{9, 9, 9}))
+		"Climb Stairs: ",
+		problems.ClimbStairs(6))
 }
